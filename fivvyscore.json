@@ -1,0 +1,29 @@
+{
+  "customer_id": 4470,
+  "customer_score_date": "2022-10-19",
+  "customer_score_dec": 5,
+  "customer_score_id": 2,
+  "customer_score_int": 4,
+  "variables": [
+    {
+      "var_id": "1",
+      "var_name": "Cliente VIP",
+      "var_value": "Grupo 1"
+    },
+    {
+      "var_id": "2",
+      "var_name": "Cliente Frecuente",
+      "var_value": "Grupo 2"
+    },
+    {
+      "var_id": "3",
+      "var_name": "Poder Adquisitivo",
+      "var_value": "Grupo 2"
+    },
+    {
+      "var_id": "4",
+      "var_name": "Nivel Vivienda",
+      "var_value": "Grupo 3"
+    }
+  ]
+}
